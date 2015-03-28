@@ -11,6 +11,7 @@
     <li class="section"><a href="[% make_uri('hotels.html') %]"><t><de>Hotels</de><en>Hotels</en></t></a></li>
     <li class="section"><a href="[% make_uri('dresden.html') %]">Dresden</a></li>
     <li class="section"><a href="[% make_uri('wiki') %]">Wiki</a></li>
+    <li class="child"><a href="[% make_uri('wiki?node=VorabendTreffen') %]"><t><de>Vorabendtreffen</de><en>Pre-Conference Meeting</en><t/></a></li>
 
     [% PROCESS menus/talks %]
 
