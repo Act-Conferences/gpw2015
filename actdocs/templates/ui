@@ -48,6 +48,7 @@
           <li><a href="sponsoring.html"><t><de>Unterstützen</de><en>Sponsoring</en></t></a></li>
           <li><a href="sponsors.html"><t><de>Sponsoren</de><en>Sponsors</en></t></a></li>
           <li><a href="status.html">Status</a></li>
+          <li style="background-color:red"><a href="/gpw2015/news/1338"><t><de>DB-Streik</de><en>DB strike</en></t></a></li>
         </ul>
         <div id="topnav_clearing"></div>
       </nav>
